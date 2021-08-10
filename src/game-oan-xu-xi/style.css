@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'GameOanXuXi';
+    src: url(./assets/font/Pony.ttf);
+}
+
+.game-container {
+    background-image: url(./assets/images/bgGame.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-family: 'GameOanXuXi';
+}
+
+.people {
+    width: 150px;
+    height: 150px;
+    border: 5px solid #45D994;
+    background-color: white;
+}
+
+.ketqua {
+    padding-top: 70px;
+    font-size: 4rem;
+}
+
+.select {
+    border: 5px solid red;
+}
